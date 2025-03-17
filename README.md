@@ -1,4 +1,4 @@
-# Akbar Baghbani
+# 👋 Hi, I'm Akbar Baghbani!
 
 I am a highly experienced Digital Signal Processing (DSP) and FPGA Engineer with a strong background in wireless communication and 
 high-speed digital design. My expertise spans the design, analysis, and development of advanced communication systems, specializing in Bluetooth and 
@@ -12,6 +12,7 @@ My passion lies in developing innovative hardware solutions and pushing the boun
 I am always eager to tackle complex challenges and contribute to advancing high-speed digital systems.
 
 
-email: <abaghbani@gmail.com>
-
-posts: [abaghbani.github.io](http://abaghbani.github.io)
+## 📫 Get in Touch
+- 📧 Email: <abaghbani@gmail.com>
+- 🔗 posts: [abaghbani.github.io](http://abaghbani.github.io)
+- 💼 My Projects: [github.com/abaghbani](https://github.com/abaghbani?tab=repositories)
